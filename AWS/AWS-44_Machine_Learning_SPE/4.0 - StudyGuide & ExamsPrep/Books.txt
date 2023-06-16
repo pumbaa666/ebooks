@@ -1,0 +1,5 @@
+
+BOOKs
+3."Machine learning in the AWS cloud", Abishek Mishra, 2021
+4."Learn Amazon SageMaker", Julien Simon, 2021
+5."Machine learning with AWS", Jeffrey Jackovich e Ruze Richard, 2020
